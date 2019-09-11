@@ -1,0 +1,1 @@
+f6668a524c2f9be10e47a37aca870b7a7a825945e18d67ad3e243f0bb505e6a2 oerdev.hardware.foobar@1.0::IFoobar

@@ -1,0 +1,4 @@
+service oerdev.hardware.foobar-1-0-hal-service /vendor/bin/hw/oerdev.hardware.foobar@1.0-service
+    class hal
+    user system
+    group system
